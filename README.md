@@ -14,21 +14,25 @@ Este projeto apresenta o design conceitual de uma plataforma de streaming inspir
 
 - Modo de Bloqueio → Perfis protegidos por senha para maior privacidade.
 
+### Como Importar e Visualizar
+
+- Instale o Figma → Acesse aqui e use no navegador ou baixe o app.
+
+- Abra o Arquivo → Clique no link ou importe o .fig no Figma.
+
+- Navegue → Explore as telas, veja detalhes e interaja com o design.
+
 ### Sobre o Projeto
 
 Este projeto foi um trabalho da disciplina "Design Centrado no Ser Humano", no curso de Análise e Desenvolvimento de Sistemas, com o objetivo de repensar o design de um aplicativo de streaming escolhido pelo aluno. A proposta consistiu em analisar a interface atual do aplicativo e criar uma nova versão inspirada nela, sem copiá-la diretamente, garantindo um visual renovado e mais intuitivo.
 
 Para este trabalho, escolhi o My Family Cinema e desenvolvi o redesign no Figma, ferramenta obrigatória para a execução do projeto. O projeto exigia a criação de, no mínimo, três telas principais, sendo elas:
 
-✅ Página Principal – Tela inicial contendo os destaques do catálogo e um menu de navegação.
-✅ Página do Produto – Exibição dos detalhes de um filme, série ou música, incluindo informações relevantes e opções de reprodução.
-✅ Tela de Reprodução – Interface do player de vídeo ou música, com controles de reprodução e ajustes disponíveis ao usuário.
+✅ Página Principal – Tela inicial contendo os destaques do catálogo e um menu de navegação. <br>
+✅ Página do Produto – Exibição dos detalhes de um filme, série ou música, incluindo informações relevantes e opções de reprodução. <br>
+✅ Tela de Reprodução – Interface do player de vídeo ou música, com controles de reprodução e ajustes disponíveis ao usuário. <br>
 
 A proposta teve como foco a usabilidade e experiência do usuário (UX/UI Design), buscando um layout mais moderno, acessível e organizado. 
-
-### Ferramentas Utilizadas
-
-Figma - Desenvolvimento do protótipo interativo e criação das telas.
 
 ## Contribuições
 
