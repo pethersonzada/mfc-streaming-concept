@@ -34,13 +34,13 @@ Para este trabalho, escolhi o My Family Cinema e desenvolvi o redesign no Figma,
 
 A proposta teve como foco a usabilidade e experiência do usuário (UX/UI Design), buscando um layout mais moderno, acessível e organizado. 
 
-## Contribuições
+## Aviso de Direitos Autorais
 
-Este projeto é apenas um conceito, mas caso tenha interesse em colaborar ou sugerir melhorias, fique à vontade para compartilhar ideias!
+Este código foi desenvolvido por Miguel Petherson e está protegido por direitos autorais. Ele não possui uma licença aberta, o que significa que:  
 
-⚠️ Aviso de Direitos Autorais
+- **Você não tem permissão para copiar, modificar ou redistribuir este código sem autorização prévia do autor.**
+- Caso queira usar este código para qualquer finalidade, entre em contato por email - pethersonzada@gmail.com  
 
-Este design foi desenvolvido por Miguel Petherson e não possui uma licença aberta. Para qualquer uso além de referências, entre em contato pelo e-mail: pethersonzada@gmail.com.
-
-Agradeço o interesse e espero que goste do projeto! 😊
+Por favor, respeite os direitos autorais e o trabalho investido neste projeto.  
+Agradeço pela compreensão! 😊
 
